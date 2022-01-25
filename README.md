@@ -1,7 +1,24 @@
-- 👋 Hi, I’m Natalia Lenis 
-- 👀 I’m interested in Data Science, Big Data, Data Engineering, Machine Learning
-- 🌱 I’m currently learning Git, SQL
-- 📫 How to reach me @nats_lenis
+### 👋 Hi Every one, I’m Natalia Lenis 
+
+Welcome to my repository!
+
+I'm an electronic engineer, currently i'm learning Data Science.
+
+#### 👀 Interested in:
+* Data Science 
+* Big Data
+* Data Engineering 
+* Machine Learning
+
+#### 📑 Skills:
+* Python
+* Git
+* Deep Learning
+* Open CV
+
+#### 🌱 I’m currently learning SQL
+
+#### 📫 How to reach me @nats_lenis
 
 <!---
 clenis08/clenis08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
